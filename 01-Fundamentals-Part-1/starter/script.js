@@ -1,5 +1,7 @@
-let js = "amazing";
+let country = "United Kingdom";
+let continent = "Europe";
+let population = 68;
 
-if (js === "amazing") alert("Javascript is FUN!");
-
-console.log(23 + 1 + 17 - 10);
+console.log(country);
+console.log(continent);
+console.log(population);
